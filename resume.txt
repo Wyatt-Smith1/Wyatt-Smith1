@@ -1,5 +1,5 @@
 Name: Wyatt Smith
 
 Education: Northeastern University 2024-Present
-
-[This is a test]
+Major: Computer Science
+Expected Graduation Date: April 2028
